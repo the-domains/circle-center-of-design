@@ -1,0 +1,28 @@
+name: Circle Center of Design
+favicon: null
+layout_spectrum: 0.8782686188351363
+typography_spectrum: 0.5727092691231519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3405345403589308
+  lightness: 0.6716032256372273
+  saturation: 0.24798771273344755
+  rhythmicContrast: 0.6325186842586845
+purpose: []
